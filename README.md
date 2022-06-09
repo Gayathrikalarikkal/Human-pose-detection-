@@ -11,6 +11,7 @@ Gayathri K.      (CB.EN.P2AIE21013)
 Under the Supervision of DR.SenthilKumar T
 ARCHITECTURE DIAGRAM
 ![image](https://user-images.githubusercontent.com/38165483/172785806-f1aa15ba-479a-4d58-8fa0-7e65c491d108.png)
+
 DATASET DESCRIPTION
 ![image](https://user-images.githubusercontent.com/38165483/172786907-d13f3e39-fb66-460e-8810-97b0b1c10762.png)
 Found 866 images belonging to 5 classes. 

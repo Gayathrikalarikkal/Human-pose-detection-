@@ -9,6 +9,7 @@ Amisha Srivastava(CB.EN.P2AIE21004)
 Gayathri K.      (CB.EN.P2AIE21013)
 
 Under the Supervision of DR.SenthilKumar T
+
 ARCHITECTURE DIAGRAM
 ![image](https://user-images.githubusercontent.com/38165483/172785806-f1aa15ba-479a-4d58-8fa0-7e65c491d108.png)
 
